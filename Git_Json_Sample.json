@@ -1,0 +1,60 @@
+[
+  {
+    "year": "1",
+    "name": "이지상",
+    "class": "현대 한국영화의 이해",
+    "avg_grade": "A"
+  },
+  {
+    "year": "1",
+    "name": "김진성",
+    "class": "지중해 문명의 이해",
+    "avg_grade": "B"
+  },
+  {
+    "year": "1",
+    "name": "이지은",
+    "class": "현대 한국영화의 이해",
+    "avg_grade": "C"
+  },
+  {
+    "year": "2",
+    "name": "성시경",
+    "class": "지중해 문명의 이해",
+    "avg_grade": "A"
+  },
+  {
+    "year": "2",
+    "name": "강호동",
+    "class": "포스트모던사회에서의 여성과법",
+    "avg_grade": "B"
+  },
+  { "year": "2", "name": "이수근", "class": "취업과 진로", "avg_grade": "C" },
+  { "year": "3", "name": "차두리", "class": "여성과 영화", "avg_grade": "F" },
+  { "year": "3", "name": "김민재", "class": "취업과 진로", "avg_grade": "D" },
+  { "year": "3", "name": "손흥민", "class": "취업과 진로", "avg_grade": "F" },
+  {
+    "year": "3",
+    "name": "이영표",
+    "class": "포스트모던사회에서의 여성과법",
+    "avg_grade": "A"
+  },
+  {
+    "year": "4",
+    "name": "테스트1",
+    "class": "포스트모던사회에서의 여성과법",
+    "avg_grade": "A"
+  },
+  {
+    "year": "4",
+    "name": "테스트2",
+    "class": "현대 한국영화의 이해",
+    "avg_grade": "A"
+  },
+  {
+    "year": "4",
+    "name": "테스트3",
+    "class": "현대 한국영화의 이해",
+    "avg_grade": "A"
+  }
+]
