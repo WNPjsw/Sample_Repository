@@ -3,4 +3,3 @@ my job
     2. home -> git-vscode connect
     3. reset,revert,rebase more study
     4. heidesql install
- 
