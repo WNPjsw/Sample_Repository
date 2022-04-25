@@ -1,6 +1,0 @@
-my job
-    1. 라라벨 프레임워크
-    2. home -> git-vscode connect
-    3. reset,revert,rebase more study
-    4. heidesql install
-    5. https://bug41.tistory.com/31 https://anko3899.tistory.com/117
